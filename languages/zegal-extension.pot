@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zegal Extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-25 05:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: zegal-extension"
+
+#. Author of the plugin
+msgid "Ajay"
+msgstr ""
+
+#: zegal-extension.php:116
+msgid "All"
+msgstr ""
+
+#. %s: post author.
+#: zegal-extension.php:63
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: zegal-extension.php:52
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: zegal-extension.php:113
+msgid "Post Lists With Category"
+msgstr ""
+
+#. Name of the plugin
+msgid "Zegal Extension"
+msgstr ""
+
+#. Description of the plugin
+msgid "Zegal Extension is plugin to list category with filter post"
+msgstr ""
